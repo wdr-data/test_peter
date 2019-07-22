@@ -1,8 +1,8 @@
 ---
-title: "Opern-Spielpläne in NRW: tot und männlich"
-description: WDR 3 Datenanalyse der Opern-Spielzeit 2018/2019
-author: Niklas Rudolph, Patricia Ennenbach
-pub_date: "2019-07-15"
+title: "Test Projekt"
+description: Schulung Peter
+author: Peter Schneider, Patricia Ennenbach
+pub_date: "2019-07-22"
 heroImage: "richard-wagner-und-freunde.jpg"
 heroAlt: "Richard Wagner und seine Freunde"
 heroCredit: "Richard Wagner und seine Freunde"
@@ -16,20 +16,20 @@ import Accordion from '../components/accordion/accordion.jsx'
 import Webtrekk from '../components/webtrekk/webtrekk.jsx'
 import Sharing from '../components/sharing/sharing.jsx'
 
-# Opern-Spielpläne in NRW: tot und männlich
+# Neue Überschrift zu Testzwecken
 
-## Wir haben die Opern-Spielpläne in NRW unter die Lupe genommen. Das Ergebnis: NRW ist ein Opern-Paradies. Aber lebende Komponisten haben kaum eine Chance, auf die Spielpläne zu kommen. Und Komponistinnen gar keine.
+## Ein Teaser, der den Leser so neugierig macht, dass er den Beitrag lesen muss!
 
-Waren Sie in der letzten Spielzeit in der Oper? Dann haben Sie höchstwahrscheinlich Papageno, die Knusperhexe oder Leporello auf der Bühne erlebt. Denn diese Opern und Operetten standen am häufigsten auf dem Spielplan:
+Kram... aren Sie in der letzten Spielzeit in der Oper? Dann haben Sie höchstwahrscheinlich Papageno, die Knusperhexe oder Leporello auf der Bühne erlebt. Denn diese Opern und Operetten standen am häufigsten auf dem Spielplan:
 
-### Zauberflöte vor Hänsel und Gretel
+### Beschäftigung von Haushaltshilfen
 
 <figure role="group">
-    <figcaption>Wurde das Stück im Haus auch 'für Kinder' gespielt, haben wir es hier mit zusammengefasst.</figcaption>
+    <figcaption>Anteil der Haushalte in Deutschland, die angeben, regelmäßig oder gelegentlich eine Haushaltshilfe zu beschäftigen.</figcaption>
     <DataWrapper
-        alt="76 mal wurde die Zauberflöte 2018/2019 in NRW aufgeführt, gefolgt von Hänsel und Gretel mit 34 Aufführungen."
-        title="Zauberflöte vor Hänsel und Gretel"
-        src="//datawrapper.dwcdn.net/azwpu/7/"
+        alt="Der Anteil der Haushalte, die Haushaltshilfen beschäftigten ist zwischen 2005 und 2017 gesunken"
+        title="Beschäftigung von Haushaltshilfen"
+        src="//datawrapper.dwcdn.net/oHQri/1/"
     />
 </figure>
 
